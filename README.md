@@ -146,9 +146,6 @@ All pipeline settings are centrally configured in `main.py`:
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License.
 
 <p align="center">
   Built with ❤️ using LangChain · ChromaDB · Google Gemini · Streamlit
